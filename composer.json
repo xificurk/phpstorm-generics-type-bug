@@ -1,0 +1,15 @@
+{
+    "name": "xificurk/phpstorm-generics-type-bug",
+    "autoload": {
+        "psr-4": {
+            "PhpstormGenericsTypeBug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petr Morávek",
+            "email": "petr@pada.cz"
+        }
+    ],
+    "require": {}
+}
